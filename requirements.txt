@@ -52,7 +52,7 @@ psycopg2-binary==2.8.2
 py==1.8.0
 pyaes==1.6.1
 pycairo==1.16.2
-pycrypto==2.6.1
+pycryptodome
 pycups==1.9.73
 pycurl==7.43.0.1
 Pygments==2.2.0
